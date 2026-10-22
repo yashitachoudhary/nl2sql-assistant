@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+error_log.txt
+demo/create_demo_db.py
